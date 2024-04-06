@@ -105,4 +105,7 @@ Thanks for book!
 Captain BAB: Make it so!
 
 Gaurav : Testing
+
+Ahmed ([@ahmedrajput91](https://twitter.com/ahmedrajput91)): Great book so far
+
 ---
